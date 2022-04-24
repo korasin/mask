@@ -1,0 +1,8 @@
+.mask1 {
+    -webkit-mask-image: url(images/my.jpeg);
+    mask-image: url(images/my.jpeg);
+    -webkit-mask-size: 70%;
+    mask-size: 70%;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;    
+  }
